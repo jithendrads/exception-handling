@@ -1,5 +1,5 @@
 
-public class Test2 {
+public class DefaultExceptionHandling2 {
 	
 	public static void main(String[] args)
 	{
